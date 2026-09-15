@@ -2,6 +2,8 @@ HDAT9700 Statistical Modelling II
 ================
 Mark Hanly
 
+Hi,I am iffa
+
 # Overview
 
 The examples and exercises in this document are designed to help you you
@@ -127,7 +129,7 @@ A code chunk is introduced with three backticks, followed by {r}, and
 then closed with three backticks. For example:
 
 ```` markdown
-``` {r demo}
+```{r demo}
 
 2 + 2
 
