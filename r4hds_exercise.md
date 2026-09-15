@@ -1,9 +1,40 @@
 HDAT9700 Statistical Modelling II
 ================
-Faadhilah Kurnia Sari
+Faadhilah Kurnia Sari<br>
 15 September 2026
 
-Hi, I am iffa
+# Header 1
+
+## Header 2
+
+### Header 3
+
+------------------------------------------------------------------------
+
+## Formatting Text
+
+**Bold** *Italic* ~~Strikethrough~~
+
+We can format packages name like `ggplot2`
+
+### Unordered List
+
+- bang
+- bang
+
+### Ordered List
+
+1.  Hey
+2.  Hey
+
+## Link and Images
+
+<figure>
+<img src="images/embed.png" alt="Image caption" />
+<figcaption aria-hidden="true">Image caption</figcaption>
+</figure>
+
+Include a [link](https://google.ie)
 
 # Overview
 
@@ -97,30 +128,41 @@ structure through headings quotes, and other features,
 
 Try formatting the plain text below to match the formatting in the image
 
-The Role of Health Data Science  
-Health data science is a multidisciplinary field that transforms raw
-data into meaningful insights. It combines statistics, computing, and
-domain knowledge to improve health outcomes.  
-A data scientist is part statistician, part computer scientist, and part
-storyteller — someone who turns data into decisions.
+### **The Role of Health Data Science**
 
-Why It Matters  
-Early diagnosis — spotting hidden patterns in patient data.  
-Predictive modelling — forecasting hospital admissions and resource
-use.  
-Evidence sharing — platforms like Our World in Data make global health
-information accessible.
+Health data science is a **multidisciplinary field** that transforms
+*raw data* into meaningful insights. It combines statistics, computing,
+and domain knowledge to improve health outcomes.
 
-Tools and Methods  
-Programming languages: R, Python  
-Visualization techniques: interactive dashboards, static reports  
-Reproducibility with R Markdown and Quarto
+> *A data scientist is part statistician, part computer scientist, and
+> part storyteller — someone who turns data into decisions.*
 
-Looking Ahead  
-The future of health data science will rely on:  
-Outdated methods replaced by adaptive algorithms  
-Integration of real-time health monitoring Greater transparency through
-open science
+#### **Why It Matters**
+
+1.  **Early diagnosis** — spotting hidden patterns in patient data.  
+
+2.  *Predictive modelling* — forecasting hospital admissions and
+    resource use.
+
+3.  Evidence sharing — platforms like [Our World in
+    Data](https://ourworldindata.org/search) make global health
+    information accessible.
+
+#### **Tools and Methods**
+
+- **Programming languages**: R, Python  
+- *Visualization techniques*: interactive dashboards, static reports  
+- Reproducibility with `R Markdown` and Quarto
+
+#### **Looking Ahead**
+
+The future of health data science will rely on:
+
+- ~~Outdated methods~~ replaced by adaptive algorithms
+
+- Integration of **real-time health monitoring**
+
+- Greater transparency through *open science*
 
 ------------------------------------------------------------------------
 
