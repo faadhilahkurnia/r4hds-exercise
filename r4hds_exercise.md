@@ -1,8 +1,9 @@
 HDAT9700 Statistical Modelling II
 ================
-Mark Hanly
+Faadhilah Kurnia Sari
+15 September 2026
 
-Hi,I am iffa
+Hi, I am iffa
 
 # Overview
 
